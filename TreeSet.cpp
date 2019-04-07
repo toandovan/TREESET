@@ -1,6 +1,6 @@
 /* Copyright (C) 2018
 * Course: CO2003
-* Author: Rang Nguyen
+* Author: ANSI
 * Ho Chi Minh City University of Technology
 */
 
